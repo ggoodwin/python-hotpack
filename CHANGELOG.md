@@ -11,6 +11,12 @@ This project adheres to [Semantic Versioning].
 
 - Soon
 
+## [1.0.1] - 2025-02-09
+
+### Changed
+
+- Updated Readme
+
 ## [1.0.0] - 2025-02-09
 
 ### Added
@@ -23,5 +29,6 @@ This project adheres to [Semantic Versioning].
 [semantic versioning]: https://semver.org/spec/v2.0.0.html
 
 <!-- Version -->
-[unreleased]: https://github.com/ggoodwin/python-hotpack/compare/v1.0.0...develop
+[unreleased]: https://github.com/ggoodwin/python-hotpack/compare/v1.0.1...develop
+[1.0.1]: https://github.com/ggoodwin/python-hotpack/tree/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/ggoodwin/python-hotpack/tree/v1.0.0

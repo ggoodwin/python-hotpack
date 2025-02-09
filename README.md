@@ -50,14 +50,14 @@ This extension pack includes the following extensions:
 | Pylance           | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-python.vscode-pylance)](https://img.shields.io/visual-studio-marketplace/i/ms-python.vscode-pylance)                                   |
 | Python Debugger         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-python.debugpy)](https://img.shields.io/visual-studio-marketplace/i/ms-python.debugpy)                 |
 | isort         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-python.isort)](https://img.shields.io/visual-studio-marketplace/i/ms-python.isort)                 |
-| Black Formatter         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-python.black-formatter)](https://img.shields.io/visual-studio-marketplace/i/ms-python.black-formatter)                 |
 | Python Indent         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/kevinrose.vsc-python-indent)](https://img.shields.io/visual-studio-marketplace/i/kevinrose.vsc-python-indent)                 |
 | autoDocString         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/njpwerner.autodocstring)](https://img.shields.io/visual-studio-marketplace/i/njpwerner.autodocstring)                 |
+| Black Formatter         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-python.black-formatter)](https://img.shields.io/visual-studio-marketplace/i/ms-python.black-formatter)                 |
 | Test Explorer UI         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/hbenl.vscode-test-explorer)](https://img.shields.io/visual-studio-marketplace/i/hbenl.vscode-test-explorer)                 |
 | Python Test Explorer         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/littlefoxteam.vscode-python-test-adapter)](https://img.shields.io/visual-studio-marketplace/i/littlefoxteam.vscode-python-test-adapter)                 |
-| Python Environments         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-python.vscode-python-envs)](https://img.shields.io/visual-studio-marketplace/i/ms-python.vscode-python-envs)                 |
 | Python Resource Monitor         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/kaih2o.python-resource-monitor)](https://img.shields.io/visual-studio-marketplace/i/kaih2o.python-resource-monitor)                 |
 | Dependi         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/fill-labs.dependi)](https://img.shields.io/visual-studio-marketplace/i/fill-labs.dependi)                 |
+| Python Environments         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ms-python.vscode-python-envs)](https://img.shields.io/visual-studio-marketplace/i/ms-python.vscode-python-envs)                 |
 
 <!-- Links -->
 [Python Hotpack 2025 for VS Code]: https://marketplace.visualstudio.com/items?itemName=ggoodwin.python-hotpack
