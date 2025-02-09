@@ -1,0 +1,56 @@
+{
+  "name": "python-hotpack",
+  "displayName": "Python Hotpack 2025",
+  "description": "Best Python Extensions",
+  "icon": "icon.webp",
+  "galleryBanner": {
+    "color": "#0273D4",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "version": "1.0.0",
+  "publisher": "ggoodwin",
+  "preview": false,
+  "pricing": "Free",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "keywords": [
+    "Python"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ggoodwin/python-hotpack"
+  },
+  "homepage": "https://www.ggn.dev",
+  "bugs": {
+    "url": "https://github.com/ggoodwin/python-hotpack/issues?q=label%3Abug"
+  },
+  "scripts": {
+    "package": "npx vsce package",
+    "publish": "npx vsce publish"
+  },
+  "extensionPack": [
+    "fill-labs.dependi",
+    "hbenl.vscode-test-explorer",
+    "kaih2o.python-resource-monitor",
+    "kevinrose.vsc-python-indent",
+    "littlefoxteam.vscode-python-test-adapter",
+    "ms-python.black-formatter",
+    "ms-python.debugpy",
+    "ms-python.isort",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.vscode-python-envs",
+    "njpwerner.autodocstring"
+  ],
+  "__metadata": {
+    "publisherId": "3ea8aec6-eb0b-4a64-bf6a-f7675b86b043",
+    "publisherDisplayName": "Greg Goodwin",
+    "updated": true,
+    "isPreReleaseVersion": false
+  }
+}

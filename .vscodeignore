@@ -1,0 +1,59 @@
+.gitignore
+
+#-----------
+# Mac Specific
+#-----------
+
+# No idea what this file even is
+*DS_Store
+
+#-----------
+# Windows Specific
+#-----------
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# ------------
+# VSCode
+# ------------
+/.vscode
+/.vscode-test
+*.code-workspace
+.history/*
+
+# ------------
+# Visual Studio
+# ------------
+/.vs
+*.sln.DotSettings.user
+*.psess
+*.vsp
+*.vspx
+*.Publish.xml
+*.pubxml
+*.azurePubxml
+
+# ------------
+# Rider
+# ------------
+/.idea
+
+# ------------
+# Sublime
+# ------------
+*.sublime-workspace
+
+# Others
+.project
+.classpath
+.c9/
+*.launch
+.settings/
